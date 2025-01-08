@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<level>
+  <owner>stolbitsa</owner>
+  <repo>jinglovoz</repo>
+  <version>v1.0.0</version>
+  <next number="1" owner="stolbitsa" repo="jingle-bells-1"/>
+  <readme>
+    <ru>2655f2ae370b0b8c54a9bf5067edb29503ae8c7eacc1fc4edaa8aabf1f629caf</ru>
+    <en>d0c71b61d94f6a9651d132ae6c12687797eb11c18eeeddb985b616620e6e63aa</en>
+  </readme>
+  <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
+  <exercise number="1">
+    <scale>major</scale>
+    <bpm>105</bpm>
+    <lowestNote>5</lowestNote>
+    <tonalities>1</tonalities>
+    <video name="22-jinglovoz_1.mp4" size="2376347" type="video/mp4" volume="0.53">1e48c39a9c2b575d49c297d9f672013d74ba24d74289de2ef43e61aea6876ca2</video>
+    <notes>
+      <note number="1" values="38" ticks="75" durationTicks="36" ppq="96" velocity="0.843"/>
+      <note number="2" values="38" ticks="123" durationTicks="35" ppq="96" velocity="0.739"/>
+      <note number="3" values="38" ticks="172" durationTicks="81" ppq="96" velocity="0.719"/>
+      <note number="4" values="38" ticks="266" durationTicks="34" ppq="96" velocity="0.719"/>
+      <note number="5" values="38" ticks="315" durationTicks="32" ppq="96" velocity="0.719"/>
+      <note number="6" values="38" ticks="361" durationTicks="95" ppq="96" velocity="0.719"/>
+    </notes>
+  </exercise>
+  <exercise number="2">
+    <scale>major</scale>
+    <bpm>105</bpm>
+    <lowestNote>5</lowestNote>
+    <tonalities>1</tonalities>
+    <video name="22-jinglovoz_2.mp4" size="2176106" type="video/mp4" volume="0.558">14f724b368516a545c86a9ac2ac785884d06e736eb4eb423cb8ab4ed791ee803</video>
+    <notes>
+      <note number="1" values="38" ticks="99" durationTicks="45" ppq="96" velocity="0.843"/>
+      <note number="2" values="58" ticks="147" durationTicks="45" ppq="96" velocity="0.739"/>
+      <note number="3" values="18" ticks="196" durationTicks="67" ppq="96" velocity="0.719"/>
+      <note number="4" values="28" ticks="266" durationTicks="23" ppq="96" velocity="0.719"/>
+      <note number="5" values="38" ticks="291" durationTicks="82" ppq="96" velocity="0.719"/>
+    </notes>
+  </exercise>
+  <exercise number="3">
+    <scale>major</scale>
+    <bpm>105</bpm>
+    <lowestNote>5</lowestNote>
+    <tonalities>1</tonalities>
+    <video name="22-jinglovoz_3.mp4" size="2364960" type="video/mp4" volume="0.478">cda6c50e814267b2504867b02ae4565079375b1bd1fd0579231bf3b7bf1e5c21</video>
+    <notes>
+      <note number="1" values="48" ticks="85" durationTicks="36" ppq="96" velocity="0.843"/>
+      <note number="2" values="48" ticks="133" durationTicks="35" ppq="96" velocity="0.739"/>
+      <note number="3" values="48" ticks="182" durationTicks="53" ppq="96" velocity="0.719"/>
+      <note number="4" values="48" ticks="253" durationTicks="15" ppq="96" velocity="0.719"/>
+      <note number="5" values="48" ticks="277" durationTicks="34" ppq="96" velocity="0.719"/>
+      <note number="6" values="38" ticks="325" durationTicks="34" ppq="96" velocity="0.719"/>
+      <note number="7" values="38" ticks="374" durationTicks="44" ppq="96" velocity="0.719"/>
+    </notes>
+  </exercise>
+  <exercise number="4">
+    <scale>major</scale>
+    <bpm>105</bpm>
+    <lowestNote>5</lowestNote>
+    <tonalities>1</tonalities>
+    <video name="22-jinglovoz_4.mp4" size="1928709" type="video/mp4" volume="0.516">06fb2b2b6e98fcdafc6ea8b80ab1b1736f7168e3387b489fed706cfa693d5789</video>
+    <notes>
+      <note number="1" values="38" ticks="49" durationTicks="36" ppq="96" velocity="0.843"/>
+      <note number="2" values="38" ticks="97" durationTicks="40" ppq="96" velocity="0.739"/>
+      <note number="3" values="28" ticks="144" durationTicks="36" ppq="96" velocity="0.719"/>
+      <note number="4" values="28" ticks="193" durationTicks="39" ppq="96" velocity="0.719"/>
+      <note number="5" values="38" ticks="240" durationTicks="45" ppq="96" velocity="0.719"/>
+      <note number="6" values="28" ticks="289" durationTicks="95" ppq="96" velocity="0.719"/>
+      <note number="7" values="58" ticks="384" durationTicks="95" ppq="96" velocity="0.719"/>
+    </notes>
+  </exercise>
+  <exercise number="5">
+    <scale>major</scale>
+    <bpm>105</bpm>
+    <lowestNote>5</lowestNote>
+    <tonalities>1</tonalities>
+    <video name="22-jinglovoz_5.mp4" size="2179898" type="video/mp4" volume="0.545">e2644148d51ee3146558ce34036de917125e7040fa3e8f1946fb71ef04fb0beb</video>
+    <notes>
+      <note number="1" values="38" ticks="103" durationTicks="36" ppq="96" velocity="0.843"/>
+      <note number="2" values="38" ticks="151" durationTicks="35" ppq="96" velocity="0.732"/>
+      <note number="3" values="38" ticks="200" durationTicks="81" ppq="96" velocity="0.717"/>
+      <note number="4" values="38" ticks="294" durationTicks="33" ppq="96" velocity="0.717"/>
+      <note number="5" values="38" ticks="342" durationTicks="33" ppq="96" velocity="0.717"/>
+      <note number="6" values="38" ticks="391" durationTicks="95" ppq="96" velocity="0.717"/>
+    </notes>
+  </exercise>
+  <exercise number="6">
+    <scale>major</scale>
+    <bpm>105</bpm>
+    <lowestNote>5</lowestNote>
+    <tonalities>1</tonalities>
+    <video name="22-jinglovoz_6.mp4" size="2060846" type="video/mp4" volume="0.513">6d0d97f492e7e3569c21d9ba79bceb5e3791cdf1b5e7e42dff50b071e9119cb2</video>
+    <notes>
+      <note number="1" values="38" ticks="103" durationTicks="36" ppq="96" velocity="0.843"/>
+      <note number="2" values="58" ticks="151" durationTicks="35" ppq="96" velocity="0.732"/>
+      <note number="3" values="18" ticks="200" durationTicks="67" ppq="96" velocity="0.717"/>
+      <note number="4" values="28" ticks="272" durationTicks="21" ppq="96" velocity="0.717"/>
+      <note number="5" values="38" ticks="294" durationTicks="82" ppq="96" velocity="0.717"/>
+    </notes>
+  </exercise>
+  <exercise number="7">
+    <scale>major</scale>
+    <bpm>105</bpm>
+    <lowestNote>5</lowestNote>
+    <tonalities>1</tonalities>
+    <video name="22-jinglovoz_7.mp4" size="2001866" type="video/mp4" volume="0.553">32763e4eaebf14bec1590ae5007b335aa22aff7aa9102d8521aaafd8fd33e2b9</video>
+    <notes>
+      <note number="1" values="48" ticks="95" durationTicks="36" ppq="96" velocity="0.843"/>
+      <note number="2" values="48" ticks="143" durationTicks="35" ppq="96" velocity="0.732"/>
+      <note number="3" values="48" ticks="192" durationTicks="53" ppq="96" velocity="0.717"/>
+      <note number="4" values="48" ticks="263" durationTicks="15" ppq="96" velocity="0.717"/>
+      <note number="5" values="48" ticks="287" durationTicks="34" ppq="96" velocity="0.717"/>
+      <note number="6" values="38" ticks="335" durationTicks="34" ppq="96" velocity="0.717"/>
+      <note number="7" values="38" ticks="384" durationTicks="44" ppq="96" velocity="0.717"/>
+    </notes>
+  </exercise>
+  <exercise number="8">
+    <scale>major</scale>
+    <bpm>105</bpm>
+    <lowestNote>5</lowestNote>
+    <tonalities>1</tonalities>
+    <video name="22-jinglovoz_8.mp4" size="2406960" type="video/mp4" volume="0.52">1a20ac7efb6ff45c4922f83436a9ec6bfd389aaf70824ca11e0be501ae00fa1f</video>
+    <notes>
+      <note number="1" values="38" ticks="57" durationTicks="36" ppq="96" velocity="0.843"/>
+      <note number="2" values="58" ticks="105" durationTicks="40" ppq="96" velocity="0.732"/>
+      <note number="3" values="58" ticks="152" durationTicks="36" ppq="96" velocity="0.717"/>
+      <note number="4" values="48" ticks="201" durationTicks="39" ppq="96" velocity="0.717"/>
+      <note number="5" values="28" ticks="248" durationTicks="45" ppq="96" velocity="0.717"/>
+      <note number="6" values="18" ticks="297" durationTicks="95" ppq="96" velocity="0.717"/>
+    </notes>
+  </exercise>
+</level>
